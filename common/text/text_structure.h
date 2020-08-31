@@ -17,7 +17,7 @@
 // It retains a shared pointer to the backing memory referenced by its
 // string_views, and is suitable for breaking out substring analyses.
 //
-// See test_structure_test_utils.h for utilities for constructing fake
+// See text_structure_test_utils.h for utilities for constructing fake
 // (valid) TextStructures without a lexer or parser.
 //
 // TODO(fangism): object serialization/deserialization for TextStructure or
